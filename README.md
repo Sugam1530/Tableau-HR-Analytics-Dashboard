@@ -60,7 +60,7 @@ The following methodology was used to develop this Tableau dashboard:
         * Drill down into specific data points for more detail.
         * Compare performance across different groups.
 
-##   Dashboard Walkthrough (with Image)
+##   Dashboard Walkthrough
 
 <img width="778" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/3406585b-ba2a-46ef-8084-37d357d0c8b6" />
 
